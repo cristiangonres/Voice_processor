@@ -1,0 +1,12 @@
+Procesador de voz y texto en python con interfaz en tkinter.
+- Permite grabar voz del micrófono:
+	-- transforma a texto
+	-- guarda en mp3 el audio
+	-- permite traducir a diferentes idiomas, en texto y audio
+	-- almacena texto en base de datos y en un log de texto plano con fecha y hora
+- Permite introducir texto:
+	-- transforma a audio.
+	-- permite grabar el audio en mp3
+	-- permite traducir a diferentes idiomas, en texto y audio
+	-- almacena texto en base de datos y en un log de texto plano con fecha y hora
+	
